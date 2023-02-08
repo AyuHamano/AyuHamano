@@ -1,4 +1,4 @@
-### Hello, i'm Aline Ayumi 🦋 and i'm a Software Engineering student 
+### 🦋 Hello, i'm Aline Ayumi and i'm a Software Engineering student 
 - 📖 I’m currently learning: 
    - C
    - Javascript
