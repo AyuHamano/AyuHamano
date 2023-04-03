@@ -1,7 +1,7 @@
-### 🦋 Hello, i'm Aline Ayumi and i'm a Software Engineering student 
+### 🦋 Hello, i'm a Software Engineering student 
 - 📖 I’m currently learning: 
    - C
-   - Javascript
+   - Javascript/HTML/CSS
    - SQL Server/PostegreSQL
 - 💻 At the moment, i'm interested in Web Development
    
